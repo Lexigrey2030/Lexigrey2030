@@ -1,3 +1,4 @@
+![octocat-1657044398105](https://user-images.githubusercontent.com/108589321/177389228-01ee86bd-9a82-4957-9380-7ffd4db6477e.png)
 - #sobre mim
 - 👋 olá,meu nome é Lexigrey2030
 - 👀 estou enteressada em aprender novas linguagens de programaçao
